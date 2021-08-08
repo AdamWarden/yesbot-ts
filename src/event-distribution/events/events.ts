@@ -49,7 +49,7 @@ import {
   TimerEventHandlerOptions,
   TimerHandlerFunction,
 } from "./timer";
-import { Prisma, Timer } from "@yes-theory-fam/database/client";
+import { Timer } from "@yes-theory-fam/database/client";
 
 export type EventHandlerOptions =
   | MemberLeaveEventHandlerOptions
