@@ -12,4 +12,7 @@ export enum ChatNames {
   VOICE_CHAT_TWO = "voice-chat-2",
   YESTHEORY_DISCUSSION = "yestheory-discussions",
   YESTHEORY_POSTED = "yestheoryposted",
+  WATCH_ME_WORK = "• 🔨 Watch Me Work",
+  WATCH_ME_WORK_TOO = "• 🔨 Watch Me Work Too",
+  PRODUCTIVITY = "• 💪 Productivity (Push2Talk)",
 }
